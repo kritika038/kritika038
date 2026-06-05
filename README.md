@@ -73,15 +73,17 @@ I specialize in turning complex AI ideas into shipped, working products — RAG 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kritika038&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika038&layout=compact&hide_border=true&langs_count=8)
-
-![Kritika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kritika038&theme=minimal&hide_border=true)
+| Metric | Count |
+|---|---|
+| 🗂️ Public Repositories | 8+ |
+| 🚀 Deployed Projects | 6 live apps |
+| 🤖 AI/ML Projects | 7 |
+| 💼 Internships | 2 |
+| 🌐 Deployment Platforms | Streamlit · Vercel · HuggingFace |
 
 </div>
 
