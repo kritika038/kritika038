@@ -1,11 +1,11 @@
 <div align="center">
 
 # Hi, I'm Kritika 👋
-### AI Engineer · LLM Systems · Full-Stack GenAI Builder
+### AI Engineer  |  LLM Systems  |  Full-Stack GenAI Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritika-bansal-375b1b2bb)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritikabansal386@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kritika038)
 
 </div>
 
@@ -13,25 +13,28 @@
 
 ## About Me
 
-I'm a B.Tech CSE (AI Specialization) student at Bennett University (2027), with **2 internships** and **4 deployed AI systems** built end-to-end.
+B.Tech CSE (AI Specialization) student at Bennett University (2027), with **2 internships** and **8 AI projects** built and deployed end-to-end.
 
-I specialize in turning complex AI ideas into working, shipped products — RAG pipelines, multi-agent LLM systems, computer vision, and full-stack GenAI applications. I own every layer: data ingestion, model integration, API development, and cloud deployment.
+I specialize in turning complex AI ideas into shipped, working products — RAG pipelines, multi-agent LLM systems, deepfake detection, computer vision, NLP, and full-stack GenAI applications. I own every layer: data ingestion, model training, API development, and cloud deployment.
 
-- 🏢 **AI Intern @ NHPC Limited** — Built a RAG Document Intelligence Chatbot deployed at a Government of India PSU
-- 🤖 **Currently building** — AI Resume Intelligence Platform with 100% parse success rate and sub-4s screening
-- 🛠️ **Stack** — Python · LangChain · RAG · FastAPI · SentenceTransformers · Ollama · Groq · Streamlit
+- 🏢 **AI Intern @ NHPC Limited (Govt. of India PSU)** — Built a RAG Document Intelligence Chatbot deployed in production
+- 💼 **AI / Data Research Intern @ Freeflow Advisors LLP (Paid)** — Built ML pipelines for AI recommendation systems
+- 🛠️ **Stack** — Python · LangChain · RAG · FastAPI · SentenceTransformers · Ollama · Groq · Streamlit · OpenCV · EfficientNet-B0
 - 🔧 **GenAI Tools** — Claude · ChatGPT · GitHub Copilot · Gemini
 
 ---
 
 ## 🚀 Deployed Projects
 
-| Project | Tech | Live Demo |
-|---|---|---|
-| 🧠 AI Resume Intelligence Platform | Python · Streamlit · Groq · SentenceTransformers | [HuggingFace Spaces](https://huggingface.co) |
-| 🏥 Agentic AI for Multimodal Medical Diagnosis | LangChain · FastAPI · LLMs | [Live Demo](https://agentic-ai-for-multimodal-medical-diagnosis-gph5znuag4uuswq6su.streamlit.app/) |
-| 👁️ VisionGuard AI Attendance System | FastAPI · OpenCV · JavaScript | [Live Demo](https://vision-guard-smart-campus-gelywtdlv-kritikas-projects-85137cfb.vercel.app/) |
-| 🎙️ Speech Emotion Recognition AI | Librosa · Scikit-learn · MFCC | [Live Demo](https://acoustic-emotion-analysis-using-machine-learning-3chfypjgt5mxt.streamlit.app/) |
+| Project | What it does | Tech | Demo |
+|---|---|---|---|
+| 🧠 **AI Resume Intelligence Platform** | LLM parsing + semantic JD matching + ATS scoring. 100% parse rate, sub-4s screening | Python · Groq · SentenceTransformers · RAG | [GitHub](https://github.com/kritika038/resume-parser-llm) |
+| 🔍 **Real vs Fake Image & Video Detection** | EfficientNet-B0 ensemble classifier for deepfake and AI-generated media detection | Python · EfficientNet · OpenCV · FastAPI | [Live Demo](https://real-fake-image-and-video-detection-vh46swgmkisxfqjvys58bd.streamlit.app/) |
+| 🏥 **Agentic AI for Multimodal Medical Diagnosis** | Multi-agent LLM system with task decomposition and structured diagnostic outputs | LangChain · FastAPI · LLMs | [Live Demo](https://agentic-ai-for-multimodal-medical-diagnosis-gph5znuag4uuswq6su.streamlit.app/) |
+| 👁️ **VisionGuard AI Attendance System** | Real-time face recognition with role-based access (Admin/Teacher/Student) | FastAPI · OpenCV · JavaScript · SQL | [Live Demo](https://vision-guard-smart-campus-gelywtdlv-kritikas-projects-85137cfb.vercel.app/) |
+| 🎙️ **Acoustic Emotion Analysis (ML)** | XGBoost classifier on MFCC + energy + pitch features. RAVDESS dataset. Confidence scores + audio insights | Librosa · XGBoost · Scikit-learn · Streamlit | [Live Demo](https://acoustic-emotion-analysis-using-machine-learning-3chfypjgt5mxt.streamlit.app/) |
+| 🎤 **Speech Emotion Recognition (Deep Learning)** | Random Forest + CNN spectrogram model. 0.71 confidence on Happy class. Probability distribution output | TensorFlow · Librosa · Scikit-learn · Streamlit | [Live Demo](https://speech-emotion-recognition-ai-r5psldx4tsgjj5hupr3wkz.streamlit.app/) |
+| 📊 **Customer Segmentation** | RFM analysis + K-Means clustering + PCA on real transaction data to identify high-value, churn-risk, and promo-sensitive segments | Scikit-learn · Pandas · Matplotlib | [GitHub](https://github.com/kritika038/Coustmer-segmentation) |
 
 ---
 
@@ -48,7 +51,9 @@ I specialize in turning complex AI ideas into working, shipped products — RAG 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Backend & Deployment**
 
@@ -56,7 +61,14 @@ I specialize in turning complex AI ideas into working, shipped products — RAG 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**GenAI Tools (Daily Use)**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -74,13 +86,15 @@ I specialize in turning complex AI ideas into working, shipped products — RAG 
 
 ## 🎓 Education & Certifications
 
-- 🏛️ **B.Tech CSE (AI Specialization)** — Bennett University · Expected 2027 · SGPA: 8.32 (latest semester)
+- 🏛️ **B.Tech CSE (AI Specialization)** — Bennett University, Greater Noida · Expected 2027 · Latest Semester SGPA: 8.32
 - 📜 Neural Networks and Deep Learning — DeepLearning.AI / Coursera
 - 📜 TensorFlow for AI, ML & Deep Learning — DeepLearning.AI / Coursera
 - 📜 Machine Learning, Data Science & Generative AI with Python — Udemy
+- 📜 Algorithmic Toolbox — UC San Diego / Coursera
 
 ---
 
 <div align="center">
-  <i>Open to AI/ML internships and full-time roles · kritikabansal386@gmail.com</i>
+  <i>Open to AI/ML internships and full-time roles</i><br/>
+  <a href="mailto:kritikabansal386@gmail.com">kritikabansal386@gmail.com</a>
 </div>
