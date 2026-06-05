@@ -77,9 +77,11 @@ I specialize in turning complex AI ideas into shipped, working products — RAG 
 
 <div align="center">
 
-![Kritika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritika038&show_icons=true&theme=default&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kritika038&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika038&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika038&layout=compact&hide_border=true&langs_count=8)
+
+![Kritika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kritika038&theme=minimal&hide_border=true)
 
 </div>
 
