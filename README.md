@@ -81,7 +81,7 @@ I specialize in turning complex AI ideas into shipped, working products — RAG 
 | Metric | Count |
 |---|---|
 | 🗂️ Public Repositories | 8+ |
-| 🚀 Deployed Projects | 7 live apps |
+| 🚀 Deployed Projects | 6 live projects |
 | 🤖 AI/ML Projects | 8 |
 | 💼 Internships | 2 |
 | 🌐 Deployment Platforms | Streamlit · Vercel · HuggingFace |
