@@ -28,7 +28,7 @@ I specialize in turning complex AI ideas into shipped, working products — RAG 
 
 | Project | What it does | Tech | Demo |
 |---|---|---|---|
-| 🧾 **Kritika Business Ledger** | Mobile-first, offline-first ledger, invoicing, sales tracking & customer balance management app for manufacturing/distribution businesses | Flutter · Dart · Firebase · SQLite | [Download APK](https://github.com/kritika038/kritika-business-ledger-showcase/blob/main/releases/Kritika-Business-Ledger-v1.0.apk) · [GitHub](https://github.com/kritika038/kritika-business-ledger-showcase) |
+| 🧾 **Kritika Business Ledger** | Mobile-first, offline-first ledger, invoicing, sales tracking & customer balance management app for manufacturing/distribution businesses | Flutter · Dart · Firebase · SQLite | [Download Latest v1.0.4 APK](https://github.com/kritika038/kritika-business-ledger-showcase/releases/tag/v1.0.4) · [GitHub](https://github.com/kritika038/kritika-business-ledger-showcase) |
 | 🧠 **AI Resume Intelligence Platform** | LLM parsing + semantic JD matching + ATS scoring. 100% parse rate, sub-4s screening | Python · Groq · SentenceTransformers · RAG | [GitHub](https://github.com/kritika038/resume-parser-llm) |
 | 🔍 **Real vs Fake Image & Video Detection** | EfficientNet-B0 ensemble classifier for deepfake and AI-generated media detection | Python · EfficientNet · OpenCV · FastAPI | [Live Demo](https://real-fake-image-and-video-detection-vh46swgmkisxfqjvys58bd.streamlit.app/) |
 | 🏥 **Agentic AI for Multimodal Medical Diagnosis** | Multi-agent LLM system with task decomposition and structured diagnostic outputs | LangChain · FastAPI · LLMs | [Live Demo](https://agentic-ai-for-multimodal-medical-diagnosis-gph5znuag4uuswq6su.streamlit.app/) |
